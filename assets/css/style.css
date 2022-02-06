@@ -1,0 +1,19 @@
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.card-visual {
+    display: none;
+}
+
+.active {
+    display: block;
+    margin: 20px;
+}
+
+.card-box {
+    /* opacity: 0;
+    z-index: -1; */
+}
